@@ -1,16 +1,18 @@
-Se você é desenvolvedor back-end e precisa resolver problemas de escalabilidade, precisa lidar com alta complexidade de lógica de negócios, e gerenciar conflitos de acesso a dados em sistemas de alta demanda, esse vídeo é pra você.
+Como configurar sua aplicação para usar variáveis de ambiente, com configurações específicas para desenvolvimento, homologação e produção.
 
-⭐ Vou te apresentar hoje o CQRS, que é um padrão de design de software que separa as partes de escrita e leitura dos dados na aplicação, permitindo otimizações independentes e melhor escalabilidade.
+⭐ Validação e tipagem inclusos!
 
 ### ✅ O QUE VOCÊ VAI APRENDER
 
-- O que é CQRS
-- Commands e Queries, que podem ser otimizados separadamente
-- Usando NestJS e TypeORM
+- Instalação e configuração do NestJS Config
+- Configurar a aplicação com variáveis de ambiente
+- Usar configurações em outras partes do código
+- Validar configurações
+- Tipar configurações para evitar erros de digitação
 
 ### ✅ VÍDEO
 
-https://youtu.be/KmzabOeDVz8
+https://youtu.be/U0F4_NEkZ3k
 
 ### ✅ SIGA-ME NAS REDES
 
